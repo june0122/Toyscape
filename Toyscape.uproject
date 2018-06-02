@@ -2,11 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.19",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "C4DUE4",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
