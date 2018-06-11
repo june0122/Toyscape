@@ -4530,3 +4530,1046 @@ LogInit: Object subsystem initialized
 [2018.06.11-22.35.37:178][748]SourceControl:  rewrite Content/StarterContent/Materials/M_Basic_Floor.uasset (98%)
 [2018.06.11-22.35.37:178][748]SourceControl:  rewrite Content/ThirdPerson/Room/01_-_Default.uasset (98%)
 [2018.06.11-22.35.37:188][748]SourceControl: Commited [master c8c3b03] 에셋추가.
+[2018.06.11-22.36.59:153][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000284bd2c90c0, Size=408
+[2018.06.11-22.37.02:513][ 15]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.06.11-22.37.03:439][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/room" FILE="C:/Users/leet3/Documents/Toyscape/Content/room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.11-22.37.03:479][ 80]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000284fb120d40, Size=408
+[2018.06.11-22.37.03:479][ 80]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285045dcf00, Size=408, Default__room_C Function /Engine/Transient.REINST_room_C_77:ExecuteUbergraph_room
+[2018.06.11-22.37.03:482][ 80]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285045dc2c0, Size=408, Default__room_C Function /Game/room.room_C:ExecuteUbergraph_room
+[2018.06.11-22.37.03:792][ 80]LogSavePackage: Save=324.14ms
+[2018.06.11-22.37.03:793][ 80]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/room7342D3B14AD104D65D3D358AB4AF59BA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/room.umap'
+[2018.06.11-22.37.03:797][ 80]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/room.umap
+[2018.06.11-22.37.04:034][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/room_BuiltData" FILE="C:/Users/leet3/Documents/Toyscape/Content/room_BuiltData.uasset" SILENT=true
+[2018.06.11-22.37.04:238][ 80]LogSavePackage: Save=187.46ms
+[2018.06.11-22.37.04:238][ 80]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/room_BuiltDataD7CA76CA4BB57AE28A73F0ADFB020D69.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/room_BuiltData.uasset'
+[2018.06.11-22.37.04:241][ 80]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/room_BuiltData.uasset
+[2018.06.11-22.37.05:285][182]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285045dcf00, Size=408
+[2018.06.11-22.37.06:406][182]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.06.11-22.37.06:804][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/01_-_Default4" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default4.uasset" SILENT=true
+[2018.06.11-22.37.06:828][182]LogSavePackage: Save=2.63ms
+[2018.06.11-22.37.06:828][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/01_-_Default4AACDAA064E8AE8D8348D8FA4F6BC475F.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default4.uasset'
+[2018.06.11-22.37.06:833][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default4.uasset
+[2018.06.11-22.37.06:836][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/01_-_Default5" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default5.uasset" SILENT=true
+[2018.06.11-22.37.06:857][182]LogSavePackage: Save=2.19ms
+[2018.06.11-22.37.06:857][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/01_-_Default564CFB680476CF47F9C1380A904C58064.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default5.uasset'
+[2018.06.11-22.37.06:862][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default5.uasset
+[2018.06.11-22.37.06:865][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/01_-_Default6" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default6.uasset" SILENT=true
+[2018.06.11-22.37.06:886][182]LogSavePackage: Save=2.06ms
+[2018.06.11-22.37.06:886][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/01_-_Default6289B986A400E3544D3E9CABCFF1F936F.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default6.uasset'
+[2018.06.11-22.37.06:891][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default6.uasset
+[2018.06.11-22.37.06:894][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/01_-_Default7" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default7.uasset" SILENT=true
+[2018.06.11-22.37.06:916][182]LogSavePackage: Save=2.02ms
+[2018.06.11-22.37.06:916][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/01_-_Default7D1F68C6C46BB1FF5BE57C8801A969971.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default7.uasset'
+[2018.06.11-22.37.06:920][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/01_-_Default7.uasset
+[2018.06.11-22.37.06:944][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiSkin1" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiSkin1.uasset" SILENT=true
+[2018.06.11-22.37.06:956][182]LogSavePackage: Save=9.86ms
+[2018.06.11-22.37.06:956][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiSkin198EE66E347A6112984F87989C56162A6.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiSkin1.uasset'
+[2018.06.11-22.37.06:960][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiSkin1.uasset
+[2018.06.11-22.37.07:222][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiSkin2" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiSkin2.uasset" SILENT=true
+[2018.06.11-22.37.07:234][182]LogSavePackage: Save=9.91ms
+[2018.06.11-22.37.07:234][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiSkin2DB0790BA4362817DC78DE09E410F27D6.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiSkin2.uasset'
+[2018.06.11-22.37.07:238][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiSkin2.uasset
+[2018.06.11-22.37.07:469][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard10" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard10.uasset" SILENT=true
+[2018.06.11-22.37.07:482][182]LogSavePackage: Save=11.65ms
+[2018.06.11-22.37.07:482][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1098CC809946472F1A270A238983654AC2.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard10.uasset'
+[2018.06.11-22.37.07:487][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard10.uasset
+[2018.06.11-22.37.07:728][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard102" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard102.uasset" SILENT=true
+[2018.06.11-22.37.07:740][182]LogSavePackage: Save=10.97ms
+[2018.06.11-22.37.07:740][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard102AFFD5A79487BAB0A8FEAEEB8FBFBBC1E.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard102.uasset'
+[2018.06.11-22.37.07:745][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard102.uasset
+[2018.06.11-22.37.07:983][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard103" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard103.uasset" SILENT=true
+[2018.06.11-22.37.07:995][182]LogSavePackage: Save=9.75ms
+[2018.06.11-22.37.07:995][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard10303FEDAA6403C818F891851BF89E920DA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard103.uasset'
+[2018.06.11-22.37.07:999][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard103.uasset
+[2018.06.11-22.37.08:226][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard104" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard104.uasset" SILENT=true
+[2018.06.11-22.37.08:237][182]LogSavePackage: Save=9.80ms
+[2018.06.11-22.37.08:238][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard104C65A28564CA015A952E555BEB8E7B3AE.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard104.uasset'
+[2018.06.11-22.37.08:242][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard104.uasset
+[2018.06.11-22.37.08:481][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard105" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard105.uasset" SILENT=true
+[2018.06.11-22.37.08:493][182]LogSavePackage: Save=9.93ms
+[2018.06.11-22.37.08:493][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard105347917474AFD4A0216409394ED64983B.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard105.uasset'
+[2018.06.11-22.37.08:497][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard105.uasset
+[2018.06.11-22.37.08:741][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard106" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard106.uasset" SILENT=true
+[2018.06.11-22.37.08:755][182]LogSavePackage: Save=12.07ms
+[2018.06.11-22.37.08:755][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard106F84FF2EF4388FF59757210B48138A381.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard106.uasset'
+[2018.06.11-22.37.08:759][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard106.uasset
+[2018.06.11-22.37.08:988][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard107" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard107.uasset" SILENT=true
+[2018.06.11-22.37.09:001][182]LogSavePackage: Save=11.12ms
+[2018.06.11-22.37.09:001][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard107482DFBFC40A09E45AFAA0BA92D85ADB1.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard107.uasset'
+[2018.06.11-22.37.09:005][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard107.uasset
+[2018.06.11-22.37.09:246][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard108" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard108.uasset" SILENT=true
+[2018.06.11-22.37.09:259][182]LogSavePackage: Save=10.38ms
+[2018.06.11-22.37.09:259][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard108BB13356C45AF0E18000B31B5C33A7DD3.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard108.uasset'
+[2018.06.11-22.37.09:263][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard108.uasset
+[2018.06.11-22.37.09:504][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard109" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard109.uasset" SILENT=true
+[2018.06.11-22.37.09:516][182]LogSavePackage: Save=10.34ms
+[2018.06.11-22.37.09:516][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1090492139F48944C89F4D94780D4C7E49C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard109.uasset'
+[2018.06.11-22.37.09:520][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard109.uasset
+[2018.06.11-22.37.09:750][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard11" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard11.uasset" SILENT=true
+[2018.06.11-22.37.09:763][182]LogSavePackage: Save=11.18ms
+[2018.06.11-22.37.09:763][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard117D47A5E54DF791CDE0D02C8E18F15E47.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard11.uasset'
+[2018.06.11-22.37.09:767][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard11.uasset
+[2018.06.11-22.37.10:007][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard110" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard110.uasset" SILENT=true
+[2018.06.11-22.37.10:019][182]LogSavePackage: Save=10.10ms
+[2018.06.11-22.37.10:019][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1100700724D41F88243E28C339933D11000.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard110.uasset'
+[2018.06.11-22.37.10:023][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard110.uasset
+[2018.06.11-22.37.10:251][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard111" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard111.uasset" SILENT=true
+[2018.06.11-22.37.10:266][182]LogSavePackage: Save=12.50ms
+[2018.06.11-22.37.10:266][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1116BE05E8A4DCAD7164E8918944B20DF3D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard111.uasset'
+[2018.06.11-22.37.10:270][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard111.uasset
+[2018.06.11-22.37.10:513][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard112" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard112.uasset" SILENT=true
+[2018.06.11-22.37.10:527][182]LogSavePackage: Save=12.69ms
+[2018.06.11-22.37.10:527][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard11219EC21F34C4ED18CE74593892CF4ACAC.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard112.uasset'
+[2018.06.11-22.37.10:532][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard112.uasset
+[2018.06.11-22.37.10:786][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard113" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard113.uasset" SILENT=true
+[2018.06.11-22.37.10:801][182]LogSavePackage: Save=13.87ms
+[2018.06.11-22.37.10:801][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1137F743D15411BC6DA2BB41C90CCE4EAC1.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard113.uasset'
+[2018.06.11-22.37.10:805][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard113.uasset
+[2018.06.11-22.37.11:047][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard114" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard114.uasset" SILENT=true
+[2018.06.11-22.37.11:062][182]LogSavePackage: Save=12.99ms
+[2018.06.11-22.37.11:062][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard114EE4137DA408A3444BB0061982B153414.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard114.uasset'
+[2018.06.11-22.37.11:066][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard114.uasset
+[2018.06.11-22.37.11:305][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard115" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard115.uasset" SILENT=true
+[2018.06.11-22.37.11:321][182]LogSavePackage: Save=13.50ms
+[2018.06.11-22.37.11:321][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1153AF2A21E404A106F1EAFB9A894B82214.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard115.uasset'
+[2018.06.11-22.37.11:325][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard115.uasset
+[2018.06.11-22.37.11:554][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard116" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard116.uasset" SILENT=true
+[2018.06.11-22.37.11:567][182]LogSavePackage: Save=11.26ms
+[2018.06.11-22.37.11:567][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1169E3A343F426F07C30E2B79A969616653.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard116.uasset'
+[2018.06.11-22.37.11:571][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard116.uasset
+[2018.06.11-22.37.11:800][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard117" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard117.uasset" SILENT=true
+[2018.06.11-22.37.11:815][182]LogSavePackage: Save=12.37ms
+[2018.06.11-22.37.11:815][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard117D4E2888C486B966CA7AE0C8E2EBFE9F3.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard117.uasset'
+[2018.06.11-22.37.11:819][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard117.uasset
+[2018.06.11-22.37.12:058][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard118" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard118.uasset" SILENT=true
+[2018.06.11-22.37.12:071][182]LogSavePackage: Save=11.25ms
+[2018.06.11-22.37.12:071][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard118B32E43A2489948CAB41716BB5B57151A.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard118.uasset'
+[2018.06.11-22.37.12:075][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard118.uasset
+[2018.06.11-22.37.12:317][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard119" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard119.uasset" SILENT=true
+[2018.06.11-22.37.12:332][182]LogSavePackage: Save=12.75ms
+[2018.06.11-22.37.12:332][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1193F1C68A44D32C0FDAA7A9DAD0EF3D902.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard119.uasset'
+[2018.06.11-22.37.12:336][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard119.uasset
+[2018.06.11-22.37.12:579][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard124" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard124.uasset" SILENT=true
+[2018.06.11-22.37.12:592][182]LogSavePackage: Save=11.71ms
+[2018.06.11-22.37.12:592][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard12472438D214B1CCF0E86DB6DBCF0BAAA20.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard124.uasset'
+[2018.06.11-22.37.12:596][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard124.uasset
+[2018.06.11-22.37.12:837][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard125" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard125.uasset" SILENT=true
+[2018.06.11-22.37.12:851][182]LogSavePackage: Save=12.39ms
+[2018.06.11-22.37.12:851][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1258B87C1FF44CC139D444B4CAB3C80604C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard125.uasset'
+[2018.06.11-22.37.12:856][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard125.uasset
+[2018.06.11-22.37.13:106][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard126" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard126.uasset" SILENT=true
+[2018.06.11-22.37.13:118][182]LogSavePackage: Save=9.76ms
+[2018.06.11-22.37.13:118][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard126BF5E0A48406EF7504E618ABE5320B749.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard126.uasset'
+[2018.06.11-22.37.13:122][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard126.uasset
+[2018.06.11-22.37.13:350][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard129" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard129.uasset" SILENT=true
+[2018.06.11-22.37.13:361][182]LogSavePackage: Save=10.07ms
+[2018.06.11-22.37.13:361][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard12944B850B1465F6BB827A02099EE60B67F.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard129.uasset'
+[2018.06.11-22.37.13:365][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard129.uasset
+[2018.06.11-22.37.13:607][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard130" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard130.uasset" SILENT=true
+[2018.06.11-22.37.13:619][182]LogSavePackage: Save=10.16ms
+[2018.06.11-22.37.13:619][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard130CCCE805F4D793A44EDBB86BC75C4224B.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard130.uasset'
+[2018.06.11-22.37.13:623][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard130.uasset
+[2018.06.11-22.37.13:853][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard14" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard14.uasset" SILENT=true
+[2018.06.11-22.37.13:866][182]LogSavePackage: Save=11.10ms
+[2018.06.11-22.37.13:866][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard142D9E58EA4BC83D19341EB5B0610A1118.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard14.uasset'
+[2018.06.11-22.37.13:870][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard14.uasset
+[2018.06.11-22.37.14:108][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard140" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard140.uasset" SILENT=true
+[2018.06.11-22.37.14:121][182]LogSavePackage: Save=11.29ms
+[2018.06.11-22.37.14:121][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1406EE1E13B4598FD6CC5F958B35BB44731.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard140.uasset'
+[2018.06.11-22.37.14:125][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard140.uasset
+[2018.06.11-22.37.14:367][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard141" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard141.uasset" SILENT=true
+[2018.06.11-22.37.14:380][182]LogSavePackage: Save=11.60ms
+[2018.06.11-22.37.14:381][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard14184EBF04E4C618E3AD5E8FEB070BF779C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard141.uasset'
+[2018.06.11-22.37.14:385][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard141.uasset
+[2018.06.11-22.37.14:625][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard15" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard15.uasset" SILENT=true
+[2018.06.11-22.37.14:640][182]LogSavePackage: Save=13.66ms
+[2018.06.11-22.37.14:640][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1502921EF845441EA18FFD9782D1B9FB0D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard15.uasset'
+[2018.06.11-22.37.14:644][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard15.uasset
+[2018.06.11-22.37.14:872][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard167" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard167.uasset" SILENT=true
+[2018.06.11-22.37.14:886][182]LogSavePackage: Save=11.46ms
+[2018.06.11-22.37.14:886][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard16707A64D444FCE910279D4499AD5AA464F.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard167.uasset'
+[2018.06.11-22.37.14:889][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard167.uasset
+[2018.06.11-22.37.15:132][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard168" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard168.uasset" SILENT=true
+[2018.06.11-22.37.15:145][182]LogSavePackage: Save=11.49ms
+[2018.06.11-22.37.15:145][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1687DEDE5D443AF1FADBF04EDA346A0B623.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard168.uasset'
+[2018.06.11-22.37.15:149][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard168.uasset
+[2018.06.11-22.37.15:392][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard171" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard171.uasset" SILENT=true
+[2018.06.11-22.37.15:404][182]LogSavePackage: Save=10.48ms
+[2018.06.11-22.37.15:404][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1710802B0CE4D0451B1EBDD848316656063.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard171.uasset'
+[2018.06.11-22.37.15:408][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard171.uasset
+[2018.06.11-22.37.15:636][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard172" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard172.uasset" SILENT=true
+[2018.06.11-22.37.15:649][182]LogSavePackage: Save=10.83ms
+[2018.06.11-22.37.15:649][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard1728E0EB79F444132D9C924AB94FC9A88B9.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard172.uasset'
+[2018.06.11-22.37.15:653][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard172.uasset
+[2018.06.11-22.37.15:883][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard19" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard19.uasset" SILENT=true
+[2018.06.11-22.37.15:896][182]LogSavePackage: Save=11.72ms
+[2018.06.11-22.37.15:896][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard191913BFDF40D7BA8E288F6CB533F65EA5.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard19.uasset'
+[2018.06.11-22.37.15:900][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard19.uasset
+[2018.06.11-22.37.16:132][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard20" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard20.uasset" SILENT=true
+[2018.06.11-22.37.16:146][182]LogSavePackage: Save=11.87ms
+[2018.06.11-22.37.16:146][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard20917054E446F9A1B3DC7A1E8DF3D51E90.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard20.uasset'
+[2018.06.11-22.37.16:150][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard20.uasset
+[2018.06.11-22.37.16:390][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard21" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard21.uasset" SILENT=true
+[2018.06.11-22.37.16:403][182]LogSavePackage: Save=11.33ms
+[2018.06.11-22.37.16:403][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard21946F194C49FD90246C9ED8914ED1BDE3.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard21.uasset'
+[2018.06.11-22.37.16:407][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard21.uasset
+[2018.06.11-22.37.16:669][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard22" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard22.uasset" SILENT=true
+[2018.06.11-22.37.16:682][182]LogSavePackage: Save=10.79ms
+[2018.06.11-22.37.16:682][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard22386158B041A6357FA892609DEAE267DB.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard22.uasset'
+[2018.06.11-22.37.16:686][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard22.uasset
+[2018.06.11-22.37.16:926][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard23" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard23.uasset" SILENT=true
+[2018.06.11-22.37.16:938][182]LogSavePackage: Save=10.06ms
+[2018.06.11-22.37.16:938][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard23005681BC4E0F6C2A4D747C9EC3372315.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard23.uasset'
+[2018.06.11-22.37.16:942][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard23.uasset
+[2018.06.11-22.37.17:193][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard24" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard24.uasset" SILENT=true
+[2018.06.11-22.37.17:205][182]LogSavePackage: Save=9.87ms
+[2018.06.11-22.37.17:205][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard24DCF438B74F953D82AC2C4A91C28521DA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard24.uasset'
+[2018.06.11-22.37.17:209][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard24.uasset
+[2018.06.11-22.37.17:471][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard25" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard25.uasset" SILENT=true
+[2018.06.11-22.37.17:483][182]LogSavePackage: Save=10.22ms
+[2018.06.11-22.37.17:483][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard255DDF2F1740AD6B7F71EF0D9B2BABEDBD.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard25.uasset'
+[2018.06.11-22.37.17:487][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard25.uasset
+[2018.06.11-22.37.17:726][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard26" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard26.uasset" SILENT=true
+[2018.06.11-22.37.17:739][182]LogSavePackage: Save=11.05ms
+[2018.06.11-22.37.17:739][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard2600E9CEC644B37481EE53BA9FCF45B150.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard26.uasset'
+[2018.06.11-22.37.17:743][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard26.uasset
+[2018.06.11-22.37.17:973][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard27" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard27.uasset" SILENT=true
+[2018.06.11-22.37.17:988][182]LogSavePackage: Save=12.84ms
+[2018.06.11-22.37.17:988][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard2774992792469893632E11C59D577A4CC0.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard27.uasset'
+[2018.06.11-22.37.17:992][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard27.uasset
+[2018.06.11-22.37.18:232][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard28" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard28.uasset" SILENT=true
+[2018.06.11-22.37.18:244][182]LogSavePackage: Save=10.17ms
+[2018.06.11-22.37.18:244][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard28133D9CC5431D5E4A13CFA3A46A24FC91.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard28.uasset'
+[2018.06.11-22.37.18:248][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard28.uasset
+[2018.06.11-22.37.18:521][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard29" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard29.uasset" SILENT=true
+[2018.06.11-22.37.18:533][182]LogSavePackage: Save=9.87ms
+[2018.06.11-22.37.18:533][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard292B39AECA4035E28DDD18469867B738A4.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard29.uasset'
+[2018.06.11-22.37.18:537][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard29.uasset
+[2018.06.11-22.37.18:790][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard30" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard30.uasset" SILENT=true
+[2018.06.11-22.37.18:802][182]LogSavePackage: Save=9.84ms
+[2018.06.11-22.37.18:802][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard304A9B75FA4C550345D1FB1F91EC19E9C5.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard30.uasset'
+[2018.06.11-22.37.18:805][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard30.uasset
+[2018.06.11-22.37.19:046][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard31" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard31.uasset" SILENT=true
+[2018.06.11-22.37.19:060][182]LogSavePackage: Save=11.82ms
+[2018.06.11-22.37.19:060][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard31C33690F04189D9BB715C0BAD4B3DC362.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard31.uasset'
+[2018.06.11-22.37.19:064][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard31.uasset
+[2018.06.11-22.37.19:306][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard32" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard32.uasset" SILENT=true
+[2018.06.11-22.37.19:321][182]LogSavePackage: Save=13.68ms
+[2018.06.11-22.37.19:322][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard327186ACC84DFBEB73A4DA3E9713B597DF.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard32.uasset'
+[2018.06.11-22.37.19:326][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard32.uasset
+[2018.06.11-22.37.19:568][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard33" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard33.uasset" SILENT=true
+[2018.06.11-22.37.19:582][182]LogSavePackage: Save=12.32ms
+[2018.06.11-22.37.19:582][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard33A9B9782E49A49A5130AD1591434C14BB.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard33.uasset'
+[2018.06.11-22.37.19:586][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard33.uasset
+[2018.06.11-22.37.19:826][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard34" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard34.uasset" SILENT=true
+[2018.06.11-22.37.19:839][182]LogSavePackage: Save=11.70ms
+[2018.06.11-22.37.19:839][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard34302723C144C30B925CED42BC7EF6671B.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard34.uasset'
+[2018.06.11-22.37.19:843][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard34.uasset
+[2018.06.11-22.37.20:094][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard35" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard35.uasset" SILENT=true
+[2018.06.11-22.37.20:107][182]LogSavePackage: Save=11.20ms
+[2018.06.11-22.37.20:107][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard35791E3BCE48A90E44EB77B68B7DD30818.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard35.uasset'
+[2018.06.11-22.37.20:111][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard35.uasset
+[2018.06.11-22.37.20:353][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard36" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard36.uasset" SILENT=true
+[2018.06.11-22.37.20:369][182]LogSavePackage: Save=13.76ms
+[2018.06.11-22.37.20:369][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard36E4F1336044290DD5CFBBE297F671B923.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard36.uasset'
+[2018.06.11-22.37.20:373][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard36.uasset
+[2018.06.11-22.37.20:603][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard37" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard37.uasset" SILENT=true
+[2018.06.11-22.37.20:618][182]LogSavePackage: Save=12.77ms
+[2018.06.11-22.37.20:618][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard37F6CD92BB48D26E895B04108DF7468090.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard37.uasset'
+[2018.06.11-22.37.20:622][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard37.uasset
+[2018.06.11-22.37.20:863][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard38" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard38.uasset" SILENT=true
+[2018.06.11-22.37.20:877][182]LogSavePackage: Save=11.81ms
+[2018.06.11-22.37.20:877][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard382FF91E594C4D25601C64EEAFDC3719A9.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard38.uasset'
+[2018.06.11-22.37.20:881][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard38.uasset
+[2018.06.11-22.37.21:135][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard39" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard39.uasset" SILENT=true
+[2018.06.11-22.37.21:149][182]LogSavePackage: Save=12.29ms
+[2018.06.11-22.37.21:149][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard3989B226484B6497FEF3DAD08D13328BF2.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard39.uasset'
+[2018.06.11-22.37.21:152][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard39.uasset
+[2018.06.11-22.37.21:392][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard4" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard4.uasset" SILENT=true
+[2018.06.11-22.37.21:405][182]LogSavePackage: Save=11.33ms
+[2018.06.11-22.37.21:406][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard43F288AFA44F0AF5D75BBBC98FFA1C920.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard4.uasset'
+[2018.06.11-22.37.21:409][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard4.uasset
+[2018.06.11-22.37.21:649][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard40" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard40.uasset" SILENT=true
+[2018.06.11-22.37.21:662][182]LogSavePackage: Save=11.40ms
+[2018.06.11-22.37.21:662][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard401E7B64DD4F49DA6F974864A6EA314B16.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard40.uasset'
+[2018.06.11-22.37.21:666][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard40.uasset
+[2018.06.11-22.37.21:908][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard41" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard41.uasset" SILENT=true
+[2018.06.11-22.37.21:921][182]LogSavePackage: Save=11.26ms
+[2018.06.11-22.37.21:921][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard41C36377FD4850C35C5766508BBA348DF9.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard41.uasset'
+[2018.06.11-22.37.21:925][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard41.uasset
+[2018.06.11-22.37.22:156][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard42" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard42.uasset" SILENT=true
+[2018.06.11-22.37.22:169][182]LogSavePackage: Save=11.33ms
+[2018.06.11-22.37.22:169][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard426B0569C94934B2CACBE1248EF49B6249.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard42.uasset'
+[2018.06.11-22.37.22:173][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard42.uasset
+[2018.06.11-22.37.22:413][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard43" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard43.uasset" SILENT=true
+[2018.06.11-22.37.22:425][182]LogSavePackage: Save=9.94ms
+[2018.06.11-22.37.22:425][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard435525C98E48BC2C951DBF9D9B5ADA36B5.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard43.uasset'
+[2018.06.11-22.37.22:429][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard43.uasset
+[2018.06.11-22.37.22:670][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard44" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard44.uasset" SILENT=true
+[2018.06.11-22.37.22:681][182]LogSavePackage: Save=9.90ms
+[2018.06.11-22.37.22:681][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard4469400D1146B6082899E77DBC4B279CA7.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard44.uasset'
+[2018.06.11-22.37.22:685][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard44.uasset
+[2018.06.11-22.37.22:913][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard45" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard45.uasset" SILENT=true
+[2018.06.11-22.37.22:925][182]LogSavePackage: Save=10.40ms
+[2018.06.11-22.37.22:925][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard457E8C184F4FCE84C3133738977E84402D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard45.uasset'
+[2018.06.11-22.37.22:929][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard45.uasset
+[2018.06.11-22.37.23:157][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard46" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard46.uasset" SILENT=true
+[2018.06.11-22.37.23:169][182]LogSavePackage: Save=10.15ms
+[2018.06.11-22.37.23:169][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard465177730F4F3B7082681DBFA0FB306723.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard46.uasset'
+[2018.06.11-22.37.23:173][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard46.uasset
+[2018.06.11-22.37.23:405][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard47" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard47.uasset" SILENT=true
+[2018.06.11-22.37.23:417][182]LogSavePackage: Save=10.77ms
+[2018.06.11-22.37.23:417][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard47598F940841ABF62B5FA223AD75D51C35.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard47.uasset'
+[2018.06.11-22.37.23:421][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard47.uasset
+[2018.06.11-22.37.23:648][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard48" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard48.uasset" SILENT=true
+[2018.06.11-22.37.23:661][182]LogSavePackage: Save=11.29ms
+[2018.06.11-22.37.23:661][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard484C5BB2B74AAD0ED20F454EBAB9F5E8D6.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard48.uasset'
+[2018.06.11-22.37.23:665][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard48.uasset
+[2018.06.11-22.37.23:906][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard5" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard5.uasset" SILENT=true
+[2018.06.11-22.37.23:919][182]LogSavePackage: Save=11.48ms
+[2018.06.11-22.37.23:919][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard58278C0784C38BD9F2F147F8A9F8972C1.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard5.uasset'
+[2018.06.11-22.37.23:923][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard5.uasset
+[2018.06.11-22.37.24:154][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard58" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard58.uasset" SILENT=true
+[2018.06.11-22.37.24:165][182]LogSavePackage: Save=9.98ms
+[2018.06.11-22.37.24:165][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard58EBFDC1E245751211BA6AAE91026723DB.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard58.uasset'
+[2018.06.11-22.37.24:169][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard58.uasset
+[2018.06.11-22.37.24:413][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard59" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard59.uasset" SILENT=true
+[2018.06.11-22.37.24:425][182]LogSavePackage: Save=10.06ms
+[2018.06.11-22.37.24:425][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard59288B712E40C6C8180CA324B0FC0B0FD0.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard59.uasset'
+[2018.06.11-22.37.24:429][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard59.uasset
+[2018.06.11-22.37.24:671][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard77" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard77.uasset" SILENT=true
+[2018.06.11-22.37.24:683][182]LogSavePackage: Save=10.23ms
+[2018.06.11-22.37.24:683][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard77D36626ED4B2EF8054F83D1AA42DF3FFB.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard77.uasset'
+[2018.06.11-22.37.24:687][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard77.uasset
+[2018.06.11-22.37.24:915][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard78" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard78.uasset" SILENT=true
+[2018.06.11-22.37.24:927][182]LogSavePackage: Save=10.08ms
+[2018.06.11-22.37.24:927][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard78F72469F94742F44C909C199521E49321.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard78.uasset'
+[2018.06.11-22.37.24:931][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard78.uasset
+[2018.06.11-22.37.25:171][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard79" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard79.uasset" SILENT=true
+[2018.06.11-22.37.25:186][182]LogSavePackage: Save=13.02ms
+[2018.06.11-22.37.25:186][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard79BA6A8FCC40700C49A8B403AC11389692.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard79.uasset'
+[2018.06.11-22.37.25:190][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard79.uasset
+[2018.06.11-22.37.25:431][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard80" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard80.uasset" SILENT=true
+[2018.06.11-22.37.25:443][182]LogSavePackage: Save=10.28ms
+[2018.06.11-22.37.25:443][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard80D9A5280540CF1D5112B02B8B8D4E24B1.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard80.uasset'
+[2018.06.11-22.37.25:447][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard80.uasset
+[2018.06.11-22.37.25:676][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard81" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard81.uasset" SILENT=true
+[2018.06.11-22.37.25:691][182]LogSavePackage: Save=12.38ms
+[2018.06.11-22.37.25:691][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard816ECD813D49F5945B1DA9C9A3AE1B9D8A.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard81.uasset'
+[2018.06.11-22.37.25:695][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard81.uasset
+[2018.06.11-22.37.25:938][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard82" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard82.uasset" SILENT=true
+[2018.06.11-22.37.25:954][182]LogSavePackage: Save=13.90ms
+[2018.06.11-22.37.25:954][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard82F935CA474D7AFA1F4077F0891BFC9868.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard82.uasset'
+[2018.06.11-22.37.25:957][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard82.uasset
+[2018.06.11-22.37.26:186][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard83" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard83.uasset" SILENT=true
+[2018.06.11-22.37.26:200][182]LogSavePackage: Save=12.18ms
+[2018.06.11-22.37.26:200][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard83B613B3E9481F053D188B2E95EB3D6BBA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard83.uasset'
+[2018.06.11-22.37.26:204][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard83.uasset
+[2018.06.11-22.37.26:446][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard84" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard84.uasset" SILENT=true
+[2018.06.11-22.37.26:458][182]LogSavePackage: Save=11.30ms
+[2018.06.11-22.37.26:458][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard84E76157BA4DFAE9C8381843B8E6DCEDB3.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard84.uasset'
+[2018.06.11-22.37.26:463][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard84.uasset
+[2018.06.11-22.37.26:717][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard85" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard85.uasset" SILENT=true
+[2018.06.11-22.37.26:730][182]LogSavePackage: Save=11.48ms
+[2018.06.11-22.37.26:730][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard8539757E304B3E3C2B217CF982C8E2630C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard85.uasset'
+[2018.06.11-22.37.26:734][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard85.uasset
+[2018.06.11-22.37.26:979][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard86" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard86.uasset" SILENT=true
+[2018.06.11-22.37.26:992][182]LogSavePackage: Save=10.93ms
+[2018.06.11-22.37.26:992][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard86D7B86B89478F7FA86B072696C7C7D601.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard86.uasset'
+[2018.06.11-22.37.26:995][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard86.uasset
+[2018.06.11-22.37.27:237][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard87" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard87.uasset" SILENT=true
+[2018.06.11-22.37.27:252][182]LogSavePackage: Save=12.86ms
+[2018.06.11-22.37.27:252][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard87009AF3204D75411B0E7427928F6F49E3.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard87.uasset'
+[2018.06.11-22.37.27:256][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard87.uasset
+[2018.06.11-22.37.27:484][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard88" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard88.uasset" SILENT=true
+[2018.06.11-22.37.27:499][182]LogSavePackage: Save=13.00ms
+[2018.06.11-22.37.27:499][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard88A8433938468C3BA1CF75B194331BB498.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard88.uasset'
+[2018.06.11-22.37.27:502][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard88.uasset
+[2018.06.11-22.37.27:741][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard94" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard94.uasset" SILENT=true
+[2018.06.11-22.37.27:755][182]LogSavePackage: Save=12.01ms
+[2018.06.11-22.37.27:755][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard9401CEE4B64841CDE5B55FC5A299E92AEA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard94.uasset'
+[2018.06.11-22.37.27:759][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard94.uasset
+[2018.06.11-22.37.27:999][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard95" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard95.uasset" SILENT=true
+[2018.06.11-22.37.28:014][182]LogSavePackage: Save=13.23ms
+[2018.06.11-22.37.28:014][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard955E94DCBA40D01CC997BE3D8C22B8A9F8.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard95.uasset'
+[2018.06.11-22.37.28:018][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard95.uasset
+[2018.06.11-22.37.28:248][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard96" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard96.uasset" SILENT=true
+[2018.06.11-22.37.28:261][182]LogSavePackage: Save=11.14ms
+[2018.06.11-22.37.28:261][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard96D4CFE4544DE96CE03499C1ADA751DA66.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard96.uasset'
+[2018.06.11-22.37.28:263][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard96.uasset
+[2018.06.11-22.37.28:503][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard97" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard97.uasset" SILENT=true
+[2018.06.11-22.37.28:517][182]LogSavePackage: Save=12.16ms
+[2018.06.11-22.37.28:517][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard9714EA536E482401F79B8B198BA70B5581.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard97.uasset'
+[2018.06.11-22.37.28:521][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard97.uasset
+[2018.06.11-22.37.28:774][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard98" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard98.uasset" SILENT=true
+[2018.06.11-22.37.28:786][182]LogSavePackage: Save=10.84ms
+[2018.06.11-22.37.28:786][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard987D11FBB445399410A37CB4BF2E5EBD34.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard98.uasset'
+[2018.06.11-22.37.28:790][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard98.uasset
+[2018.06.11-22.37.29:058][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiStandard99" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard99.uasset" SILENT=true
+[2018.06.11-22.37.29:074][182]LogSavePackage: Save=13.64ms
+[2018.06.11-22.37.29:074][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiStandard99FDE676AC4C8D28CC4478BDB12EB175B2.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard99.uasset'
+[2018.06.11-22.37.29:077][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiStandard99.uasset
+[2018.06.11-22.37.29:324][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiUtility1" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility1.uasset" SILENT=true
+[2018.06.11-22.37.29:335][182]LogSavePackage: Save=9.85ms
+[2018.06.11-22.37.29:335][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiUtility149A9F75B415D895881547B9D4BF91E9D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility1.uasset'
+[2018.06.11-22.37.29:339][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility1.uasset
+[2018.06.11-22.37.29:580][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiUtility2" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility2.uasset" SILENT=true
+[2018.06.11-22.37.29:593][182]LogSavePackage: Save=9.97ms
+[2018.06.11-22.37.29:593][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiUtility21BCE4DBC4F10A92A61D7DDB3CEE39582.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility2.uasset'
+[2018.06.11-22.37.29:596][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility2.uasset
+[2018.06.11-22.37.29:840][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/aiUtility3" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility3.uasset" SILENT=true
+[2018.06.11-22.37.29:851][182]LogSavePackage: Save=9.87ms
+[2018.06.11-22.37.29:851][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/aiUtility363B300D74C9170C292FFB9BA9B2FD929.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility3.uasset'
+[2018.06.11-22.37.29:855][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/aiUtility3.uasset
+[2018.06.11-22.37.30:094][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Bed17" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed17.uasset" SILENT=true
+[2018.06.11-22.37.30:107][182]LogSavePackage: Save=10.94ms
+[2018.06.11-22.37.30:107][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Bed178C394CA4459808CEE397779111BB415D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed17.uasset'
+[2018.06.11-22.37.30:110][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed17.uasset
+[2018.06.11-22.37.30:349][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Bed26" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed26.uasset" SILENT=true
+[2018.06.11-22.37.30:365][182]LogSavePackage: Save=13.33ms
+[2018.06.11-22.37.30:365][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Bed26114FD5BF4AF0D7E1B96F059AF4F6DEA8.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed26.uasset'
+[2018.06.11-22.37.30:368][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed26.uasset
+[2018.06.11-22.37.30:652][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Bed27" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed27.uasset" SILENT=true
+[2018.06.11-22.37.30:665][182]LogSavePackage: Save=11.26ms
+[2018.06.11-22.37.30:665][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Bed27C00E374E435A28F99193FBABAD44A8ED.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed27.uasset'
+[2018.06.11-22.37.30:669][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Bed27.uasset
+[2018.06.11-22.37.30:930][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Cam01_BG" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam01_BG.uasset" SILENT=true
+[2018.06.11-22.37.30:943][182]LogSavePackage: Save=10.73ms
+[2018.06.11-22.37.30:943][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Cam01_BGC71EF6BD46F59C344C3D1587DA4C5A88.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam01_BG.uasset'
+[2018.06.11-22.37.30:947][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam01_BG.uasset
+[2018.06.11-22.37.31:197][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Cam06_BG" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam06_BG.uasset" SILENT=true
+[2018.06.11-22.37.31:210][182]LogSavePackage: Save=10.70ms
+[2018.06.11-22.37.31:210][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Cam06_BG7B7AF36E46EE511EADD9F7AC53934D14.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam06_BG.uasset'
+[2018.06.11-22.37.31:214][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam06_BG.uasset
+[2018.06.11-22.37.31:441][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Cam08_BG" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam08_BG.uasset" SILENT=true
+[2018.06.11-22.37.31:454][182]LogSavePackage: Save=10.86ms
+[2018.06.11-22.37.31:454][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Cam08_BG3A48B0164898DE290161A2BF0B6770D3.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam08_BG.uasset'
+[2018.06.11-22.37.31:457][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Cam08_BG.uasset
+[2018.06.11-22.37.31:708][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_chair_GEO" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_chair_GEO.uasset" SILENT=true
+[2018.06.11-22.37.31:723][182]LogSavePackage: Save=12.85ms
+[2018.06.11-22.37.31:723][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_chair_GEOEC8F190144BFC95F99312CB2AFD135C9.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_chair_GEO.uasset'
+[2018.06.11-22.37.31:727][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_chair_GEO.uasset
+[2018.06.11-22.37.31:978][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Corner_line_GEO" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Corner_line_GEO.uasset" SILENT=true
+[2018.06.11-22.37.31:993][182]LogSavePackage: Save=11.84ms
+[2018.06.11-22.37.31:993][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Corner_line_GEO1080F6EB4264F31E12C8D09CFA28877D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Corner_line_GEO.uasset'
+[2018.06.11-22.37.31:996][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Corner_line_GEO.uasset
+[2018.06.11-22.37.32:223][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_desk_GEO" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_desk_GEO.uasset" SILENT=true
+[2018.06.11-22.37.32:236][182]LogSavePackage: Save=11.60ms
+[2018.06.11-22.37.32:236][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_desk_GEO9F6EA6364138B473F667CA85FEDAA5A4.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_desk_GEO.uasset'
+[2018.06.11-22.37.32:239][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_desk_GEO.uasset
+[2018.06.11-22.37.32:497][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_ditan_fur_geo" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_ditan_fur_geo.uasset" SILENT=true
+[2018.06.11-22.37.32:510][182]LogSavePackage: Save=11.03ms
+[2018.06.11-22.37.32:510][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_ditan_fur_geoBB54B032446D289E7C4FBDAEA5D87EA7.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_ditan_fur_geo.uasset'
+[2018.06.11-22.37.32:514][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_ditan_fur_geo.uasset
+[2018.06.11-22.37.32:763][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_huaban20" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_huaban20.uasset" SILENT=true
+[2018.06.11-22.37.32:781][182]LogSavePackage: Save=16.11ms
+[2018.06.11-22.37.32:781][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_huaban20372514D34AB293B7D46EA0BCEE552F0F.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_huaban20.uasset'
+[2018.06.11-22.37.32:785][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_huaban20.uasset
+[2018.06.11-22.37.33:127][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_jimu45" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_jimu45.uasset" SILENT=true
+[2018.06.11-22.37.33:140][182]LogSavePackage: Save=11.86ms
+[2018.06.11-22.37.33:140][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_jimu454C817DA04FBD62349865D9938BD67838.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_jimu45.uasset'
+[2018.06.11-22.37.33:144][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_jimu45.uasset
+[2018.06.11-22.37.33:382][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_polySurface6552" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6552.uasset" SILENT=true
+[2018.06.11-22.37.33:397][182]LogSavePackage: Save=12.81ms
+[2018.06.11-22.37.33:397][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_polySurface65525FE2A2C640AA57E299C3929365F42BA3.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6552.uasset'
+[2018.06.11-22.37.33:400][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6552.uasset
+[2018.06.11-22.37.33:672][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_polySurface6553" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6553.uasset" SILENT=true
+[2018.06.11-22.37.33:685][182]LogSavePackage: Save=11.59ms
+[2018.06.11-22.37.33:685][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_polySurface6553B7A2B6C144EF99BA0612B4905E29A9AF.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6553.uasset'
+[2018.06.11-22.37.33:689][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6553.uasset
+[2018.06.11-22.37.33:938][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_polySurface6554" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6554.uasset" SILENT=true
+[2018.06.11-22.37.33:952][182]LogSavePackage: Save=11.91ms
+[2018.06.11-22.37.33:952][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_polySurface6554274585744974D9017CCD8DAF443E0756.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6554.uasset'
+[2018.06.11-22.37.33:956][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6554.uasset
+[2018.06.11-22.37.34:195][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_polySurface6580" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6580.uasset" SILENT=true
+[2018.06.11-22.37.34:208][182]LogSavePackage: Save=11.18ms
+[2018.06.11-22.37.34:208][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_polySurface6580DA5686574EA0962A5A4665B8566233A6.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6580.uasset'
+[2018.06.11-22.37.34:211][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6580.uasset
+[2018.06.11-22.37.34:450][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_polySurface6623" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6623.uasset" SILENT=true
+[2018.06.11-22.37.34:464][182]LogSavePackage: Save=12.89ms
+[2018.06.11-22.37.34:464][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_polySurface6623F13C9029429957CA00198AB3630B88C2.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6623.uasset'
+[2018.06.11-22.37.34:468][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_polySurface6623.uasset
+[2018.06.11-22.37.34:740][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_rocket_GEO" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_rocket_GEO.uasset" SILENT=true
+[2018.06.11-22.37.34:753][182]LogSavePackage: Save=11.17ms
+[2018.06.11-22.37.34:753][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_rocket_GEOFEE513614EBA6FB0770F2497D7FBA3A5.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_rocket_GEO.uasset'
+[2018.06.11-22.37.34:757][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_rocket_GEO.uasset
+[2018.06.11-22.37.35:018][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu11" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu11.uasset" SILENT=true
+[2018.06.11-22.37.35:031][182]LogSavePackage: Save=11.19ms
+[2018.06.11-22.37.35:031][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu11B5476D1D4124458BAD54E2AD58D03AE7.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu11.uasset'
+[2018.06.11-22.37.35:034][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu11.uasset
+[2018.06.11-22.37.35:275][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu11_1" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu11_1.uasset" SILENT=true
+[2018.06.11-22.37.35:287][182]LogSavePackage: Save=10.72ms
+[2018.06.11-22.37.35:287][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu11_1A40D04E840B7883200D6B597B8E91C5C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu11_1.uasset'
+[2018.06.11-22.37.35:290][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu11_1.uasset
+[2018.06.11-22.37.35:531][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu2" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu2.uasset" SILENT=true
+[2018.06.11-22.37.35:544][182]LogSavePackage: Save=10.86ms
+[2018.06.11-22.37.35:544][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu298F8B8E04E61AEEB479B309995F6D26E.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu2.uasset'
+[2018.06.11-22.37.35:547][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu2.uasset
+[2018.06.11-22.37.35:786][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu3" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu3.uasset" SILENT=true
+[2018.06.11-22.37.35:799][182]LogSavePackage: Save=11.08ms
+[2018.06.11-22.37.35:799][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu3AB7562D342F7BB086AFB63AFACEED76C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu3.uasset'
+[2018.06.11-22.37.35:802][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu3.uasset
+[2018.06.11-22.37.36:053][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu5" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu5.uasset" SILENT=true
+[2018.06.11-22.37.36:066][182]LogSavePackage: Save=11.15ms
+[2018.06.11-22.37.36:066][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu59961D6994771158C2A3BF99FFF6920C0.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu5.uasset'
+[2018.06.11-22.37.36:069][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu5.uasset
+[2018.06.11-22.37.36:310][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu7" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu7.uasset" SILENT=true
+[2018.06.11-22.37.36:324][182]LogSavePackage: Save=11.04ms
+[2018.06.11-22.37.36:324][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu7E467104840C7BD12FB8471B42230D7FA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu7.uasset'
+[2018.06.11-22.37.36:327][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu7.uasset
+[2018.06.11-22.37.36:569][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu9" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu9.uasset" SILENT=true
+[2018.06.11-22.37.36:582][182]LogSavePackage: Save=11.07ms
+[2018.06.11-22.37.36:582][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu9C48E1C0240E2F6C8C6CA0D83039892F9.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu9.uasset'
+[2018.06.11-22.37.36:586][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu9.uasset
+[2018.06.11-22.37.36:827][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_shu9_1" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu9_1.uasset" SILENT=true
+[2018.06.11-22.37.36:839][182]LogSavePackage: Save=10.83ms
+[2018.06.11-22.37.36:839][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_shu9_118498F394185627B7D414E883CF75185.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu9_1.uasset'
+[2018.06.11-22.37.36:842][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_shu9_1.uasset
+[2018.06.11-22.37.37:096][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_taideng1_28" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_taideng1_28.uasset" SILENT=true
+[2018.06.11-22.37.37:111][182]LogSavePackage: Save=13.07ms
+[2018.06.11-22.37.37:111][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_taideng1_28D9A88792473837C9C22CFF9FCAE6D51C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_taideng1_28.uasset'
+[2018.06.11-22.37.37:115][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_taideng1_28.uasset
+[2018.06.11-22.37.37:364][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_tanke88" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_tanke88.uasset" SILENT=true
+[2018.06.11-22.37.37:380][182]LogSavePackage: Save=14.00ms
+[2018.06.11-22.37.37:380][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_tanke889418643F401EE96A239598A7022BAD9C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_tanke88.uasset'
+[2018.06.11-22.37.37:384][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_tanke88.uasset
+[2018.06.11-22.37.37:691][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_Toy_Car_GEO" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Toy_Car_GEO.uasset" SILENT=true
+[2018.06.11-22.37.37:704][182]LogSavePackage: Save=10.76ms
+[2018.06.11-22.37.37:704][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_Toy_Car_GEO0ABDCC7941C0AD404F16E3B2DA1ED78F.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Toy_Car_GEO.uasset'
+[2018.06.11-22.37.37:707][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_Toy_Car_GEO.uasset
+[2018.06.11-22.37.37:980][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_transform69" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_transform69.uasset" SILENT=true
+[2018.06.11-22.37.37:994][182]LogSavePackage: Save=12.00ms
+[2018.06.11-22.37.37:994][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_transform69240493CF4F20CC84BF5AAA8D07852462.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_transform69.uasset'
+[2018.06.11-22.37.37:997][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_transform69.uasset
+[2018.06.11-22.37.38:262][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_xiangkuang1_1" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_1.uasset" SILENT=true
+[2018.06.11-22.37.38:275][182]LogSavePackage: Save=11.65ms
+[2018.06.11-22.37.38:275][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_xiangkuang1_1BC02F5E04B949113AA9BA69B4BBCAB07.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_1.uasset'
+[2018.06.11-22.37.38:279][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_1.uasset
+[2018.06.11-22.37.38:531][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_xiangkuang1_11" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_11.uasset" SILENT=true
+[2018.06.11-22.37.38:545][182]LogSavePackage: Save=11.75ms
+[2018.06.11-22.37.38:545][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_xiangkuang1_111D667CFA41571394D88287BCB7373BD5.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_11.uasset'
+[2018.06.11-22.37.38:548][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_11.uasset
+[2018.06.11-22.37.38:790][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_xiangkuang1_1_1" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_1_1.uasset" SILENT=true
+[2018.06.11-22.37.38:803][182]LogSavePackage: Save=11.38ms
+[2018.06.11-22.37.38:803][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_xiangkuang1_1_1D32B057E46066C5F4AFD51A32ABC71AF.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_1_1.uasset'
+[2018.06.11-22.37.38:807][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_1_1.uasset
+[2018.06.11-22.37.39:045][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_xiangkuang1_4" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_4.uasset" SILENT=true
+[2018.06.11-22.37.39:058][182]LogSavePackage: Save=11.11ms
+[2018.06.11-22.37.39:058][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_xiangkuang1_4FEE1ECEF4F400E2AC96407B9D8618E67.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_4.uasset'
+[2018.06.11-22.37.39:062][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_4.uasset
+[2018.06.11-22.37.39:304][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_xiangkuang1_5" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_5.uasset" SILENT=true
+[2018.06.11-22.37.39:317][182]LogSavePackage: Save=11.37ms
+[2018.06.11-22.37.39:318][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_xiangkuang1_59FDCE931406B218518C56BB131E2DD2D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_5.uasset'
+[2018.06.11-22.37.39:321][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_5.uasset
+[2018.06.11-22.37.39:563][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_xiangkuang1_8" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_8.uasset" SILENT=true
+[2018.06.11-22.37.39:576][182]LogSavePackage: Save=11.37ms
+[2018.06.11-22.37.39:576][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_xiangkuang1_8ED3150764DF5FF77EEAB3AB6B056FB58.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_8.uasset'
+[2018.06.11-22.37.39:579][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_8.uasset
+[2018.06.11-22.37.39:842][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset2_xiangkuang1_9" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_9.uasset" SILENT=true
+[2018.06.11-22.37.39:856][182]LogSavePackage: Save=11.99ms
+[2018.06.11-22.37.39:856][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset2_xiangkuang1_934D16B324853B616CAB752B97DD3027A.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_9.uasset'
+[2018.06.11-22.37.39:859][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset2_xiangkuang1_9.uasset
+[2018.06.11-22.37.40:111][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset4_Cam01_BG" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam01_BG.uasset" SILENT=true
+[2018.06.11-22.37.40:123][182]LogSavePackage: Save=10.76ms
+[2018.06.11-22.37.40:124][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset4_Cam01_BG5D577CB44D3FD63D75721BB5BCF0F478.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam01_BG.uasset'
+[2018.06.11-22.37.40:127][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam01_BG.uasset
+[2018.06.11-22.37.40:353][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset4_Cam06_BG" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam06_BG.uasset" SILENT=true
+[2018.06.11-22.37.40:366][182]LogSavePackage: Save=10.63ms
+[2018.06.11-22.37.40:366][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset4_Cam06_BGAD99B21C455FA656FABEAD9628A75E50.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam06_BG.uasset'
+[2018.06.11-22.37.40:369][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam06_BG.uasset
+[2018.06.11-22.37.40:623][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset4_Cam08_BG" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam08_BG.uasset" SILENT=true
+[2018.06.11-22.37.40:636][182]LogSavePackage: Save=11.03ms
+[2018.06.11-22.37.40:636][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset4_Cam08_BGBB73B4964683A248A99E339F8A327619.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam08_BG.uasset'
+[2018.06.11-22.37.40:639][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_Cam08_BG.uasset
+[2018.06.11-22.37.40:868][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset4_giraffe_GEO" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_giraffe_GEO.uasset" SILENT=true
+[2018.06.11-22.37.40:886][182]LogSavePackage: Save=16.12ms
+[2018.06.11-22.37.40:886][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset4_giraffe_GEOD4664A894468D1B9963BF3B5BD5BBDE6.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_giraffe_GEO.uasset'
+[2018.06.11-22.37.40:890][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_giraffe_GEO.uasset
+[2018.06.11-22.37.41:380][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset4_polySurface6643" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_polySurface6643.uasset" SILENT=true
+[2018.06.11-22.37.41:395][182]LogSavePackage: Save=12.34ms
+[2018.06.11-22.37.41:395][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset4_polySurface6643F1527ACD4B6924B8A5801FB2507A1DC7.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_polySurface6643.uasset'
+[2018.06.11-22.37.41:398][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_polySurface6643.uasset
+[2018.06.11-22.37.41:712][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset4_polySurface6644" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_polySurface6644.uasset" SILENT=true
+[2018.06.11-22.37.41:725][182]LogSavePackage: Save=10.98ms
+[2018.06.11-22.37.41:725][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset4_polySurface6644DD2161314ACC03E59B7F61B4368FEA9E.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_polySurface6644.uasset'
+[2018.06.11-22.37.41:728][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_polySurface6644.uasset
+[2018.06.11-22.37.42:023][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/asset4_transform5" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_transform5.uasset" SILENT=true
+[2018.06.11-22.37.42:036][182]LogSavePackage: Save=10.80ms
+[2018.06.11-22.37.42:036][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/asset4_transform58AD50C35444EA9A6114694BF295821B7.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_transform5.uasset'
+[2018.06.11-22.37.42:039][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/asset4_transform5.uasset
+[2018.06.11-22.37.42:316][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/bedWood_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bedWood_Diff.uasset" SILENT=true
+[2018.06.11-22.37.42:527][182]LogSavePackage: Save=208.59ms
+[2018.06.11-22.37.42:527][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/bedWood_Diff53AEB0EC4033C7581ADB84B6802AAB81.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bedWood_Diff.uasset'
+[2018.06.11-22.37.42:530][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bedWood_Diff.uasset
+[2018.06.11-22.37.42:905][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/bedWood_Mat" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bedWood_Mat.uasset" SILENT=true
+[2018.06.11-22.37.42:918][182]LogSavePackage: Save=11.35ms
+[2018.06.11-22.37.42:918][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/bedWood_Mat2C3C7B3C4951FE61A1DE31AC0C852AB8.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bedWood_Mat.uasset'
+[2018.06.11-22.37.42:921][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bedWood_Mat.uasset
+[2018.06.11-22.37.43:167][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Book01_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Book01_Diff.uasset" SILENT=true
+[2018.06.11-22.37.43:272][182]LogSavePackage: Save=103.23ms
+[2018.06.11-22.37.43:273][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/Book01_Diff970273DF4EE992755F3A459D5A86A680.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Book01_Diff.uasset'
+[2018.06.11-22.37.43:276][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Book01_Diff.uasset
+[2018.06.11-22.37.43:566][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/BookCover02_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover02_Diff.uasset" SILENT=true
+[2018.06.11-22.37.44:323][182]LogSavePackage: Save=755.46ms
+[2018.06.11-22.37.44:323][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/BookCover02_Diff3F71A256434E26D4F0FCD58455D6AE66.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover02_Diff.uasset'
+[2018.06.11-22.37.44:326][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover02_Diff.uasset
+[2018.06.11-22.37.44:968][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/BookCover03_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover03_Diff.uasset" SILENT=true
+[2018.06.11-22.37.45:027][182]LogSavePackage: Save=56.96ms
+[2018.06.11-22.37.45:027][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/BookCover03_Diff2C98287F467581E855ACCC8B9E49FACB.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover03_Diff.uasset'
+[2018.06.11-22.37.45:031][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover03_Diff.uasset
+[2018.06.11-22.37.45:352][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/BookCover04_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover04_Diff.uasset" SILENT=true
+[2018.06.11-22.37.45:518][182]LogSavePackage: Save=165.05ms
+[2018.06.11-22.37.45:518][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/BookCover04_Diff280722DD4B3F1A61A57E63A486C6CCA4.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover04_Diff.uasset'
+[2018.06.11-22.37.45:521][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/BookCover04_Diff.uasset
+[2018.06.11-22.37.45:854][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/bookCover05_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover05_Diff.uasset" SILENT=true
+[2018.06.11-22.37.46:160][182]LogSavePackage: Save=304.11ms
+[2018.06.11-22.37.46:160][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/bookCover05_Diff207754704E8D9E6F4A2FEC8A652C49D1.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover05_Diff.uasset'
+[2018.06.11-22.37.46:163][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover05_Diff.uasset
+[2018.06.11-22.37.46:616][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/bookCover06_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover06_Diff.uasset" SILENT=true
+[2018.06.11-22.37.46:707][182]LogSavePackage: Save=88.73ms
+[2018.06.11-22.37.46:707][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/bookCover06_DiffAFCBD5F74BBBC2FCA1E940921E6947AC.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover06_Diff.uasset'
+[2018.06.11-22.37.46:711][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover06_Diff.uasset
+[2018.06.11-22.37.47:043][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/bookCover07_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover07_Diff.uasset" SILENT=true
+[2018.06.11-22.37.47:588][182]LogSavePackage: Save=543.99ms
+[2018.06.11-22.37.47:588][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/bookCover07_Diff045C469641E9C090D3317DA4BDD07759.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover07_Diff.uasset'
+[2018.06.11-22.37.47:591][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookCover07_Diff.uasset
+[2018.06.11-22.37.48:119][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/bookSide02_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookSide02_Diff.uasset" SILENT=true
+[2018.06.11-22.37.48:127][182]LogSavePackage: Save=6.34ms
+[2018.06.11-22.37.48:127][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/bookSide02_Diff84C826B84613E86EB486A68874BE16A2.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookSide02_Diff.uasset'
+[2018.06.11-22.37.48:130][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookSide02_Diff.uasset
+[2018.06.11-22.37.48:347][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/bookSide_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookSide_Diff.uasset" SILENT=true
+[2018.06.11-22.37.48:355][182]LogSavePackage: Save=7.07ms
+[2018.06.11-22.37.48:355][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/bookSide_Diff5D4163EE48C952E3F9432FA07331B6F8.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookSide_Diff.uasset'
+[2018.06.11-22.37.48:358][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/bookSide_Diff.uasset
+[2018.06.11-22.37.48:582][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CarpetFur_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CarpetFur_Diff.uasset" SILENT=true
+[2018.06.11-22.37.50:884][182]LogSavePackage: Save=2299.29ms
+[2018.06.11-22.37.50:884][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/CarpetFur_Diff5FCB9757434CCF00C64D29B43C032DB9.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CarpetFur_Diff.uasset'
+[2018.06.11-22.37.50:887][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CarpetFur_Diff.uasset
+[2018.06.11-22.37.52:479][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Chair_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Chair_Diff.uasset" SILENT=true
+[2018.06.11-22.37.52:693][182]LogSavePackage: Save=213.36ms
+[2018.06.11-22.37.52:694][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/Chair_DiffEC810A4C49B52548AE367CBE69DA77C8.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Chair_Diff.uasset'
+[2018.06.11-22.37.52:697][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Chair_Diff.uasset
+[2018.06.11-22.37.53:054][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/cloth01_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/cloth01_Diff.uasset" SILENT=true
+[2018.06.11-22.37.53:270][182]LogSavePackage: Save=214.67ms
+[2018.06.11-22.37.53:270][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/cloth01_Diff6610AB39458CDFC6E38B6985DDA4C169.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/cloth01_Diff.uasset'
+[2018.06.11-22.37.53:274][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/cloth01_Diff.uasset
+[2018.06.11-22.37.53:639][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/cloth02_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/cloth02_Diff.uasset" SILENT=true
+[2018.06.11-22.37.53:937][182]LogSavePackage: Save=295.58ms
+[2018.06.11-22.37.53:938][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/cloth02_Diff4BB526E342D75D48868E3DA4E9EE121C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/cloth02_Diff.uasset'
+[2018.06.11-22.37.53:941][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/cloth02_Diff.uasset
+[2018.06.11-22.37.54:353][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CorridorFrame_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CorridorFrame_Diff.uasset" SILENT=true
+[2018.06.11-22.37.54:575][182]LogSavePackage: Save=220.46ms
+[2018.06.11-22.37.54:575][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/CorridorFrame_Diff307176894E14542A7BA57AAADF19F7A7.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CorridorFrame_Diff.uasset'
+[2018.06.11-22.37.54:579][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CorridorFrame_Diff.uasset
+[2018.06.11-22.37.54:956][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CorridorFrame_Mat" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CorridorFrame_Mat.uasset" SILENT=true
+[2018.06.11-22.37.54:970][182]LogSavePackage: Save=11.29ms
+[2018.06.11-22.37.54:970][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/CorridorFrame_Mat5BA90E0F4604178E1DD9AFABDD060138.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CorridorFrame_Mat.uasset'
+[2018.06.11-22.37.54:973][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/CorridorFrame_Mat.uasset
+[2018.06.11-22.37.55:220][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DinosaurGreen_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/DinosaurGreen_Diff.uasset" SILENT=true
+[2018.06.11-22.37.55:505][182]LogSavePackage: Save=283.34ms
+[2018.06.11-22.37.55:505][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/DinosaurGreen_DiffE24CA3974A88609880369E9231C7FFD6.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/DinosaurGreen_Diff.uasset'
+[2018.06.11-22.37.55:509][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/DinosaurGreen_Diff.uasset
+[2018.06.11-22.37.55:849][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DinosaurViolet_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/DinosaurViolet_Diff.uasset" SILENT=true
+[2018.06.11-22.37.56:134][182]LogSavePackage: Save=283.44ms
+[2018.06.11-22.37.56:134][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/DinosaurViolet_Diff52A3BAFC4822B76F353B7E9E8365FB6A.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/DinosaurViolet_Diff.uasset'
+[2018.06.11-22.37.56:137][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/DinosaurViolet_Diff.uasset
+[2018.06.11-22.37.56:485][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/fan_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/fan_Diff.uasset" SILENT=true
+[2018.06.11-22.37.56:528][182]LogSavePackage: Save=41.34ms
+[2018.06.11-22.37.56:528][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/fan_DiffE18A469845945D6B012268AA45E95D19.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/fan_Diff.uasset'
+[2018.06.11-22.37.56:532][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/fan_Diff.uasset
+[2018.06.11-22.37.56:790][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/FramePhoto001_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/FramePhoto001_Diff.uasset" SILENT=true
+[2018.06.11-22.37.56:833][182]LogSavePackage: Save=41.01ms
+[2018.06.11-22.37.56:833][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/FramePhoto001_Diff529AEAE24A6C968EFD16B7B1FD597EBA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/FramePhoto001_Diff.uasset'
+[2018.06.11-22.37.56:836][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/FramePhoto001_Diff.uasset
+[2018.06.11-22.37.57:107][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Giraffe_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Giraffe_Diff.uasset" SILENT=true
+[2018.06.11-22.37.57:149][182]LogSavePackage: Save=40.74ms
+[2018.06.11-22.37.57:149][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/Giraffe_Diff6C600C8D4D836EA80EDEBBA474A6DEBF.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Giraffe_Diff.uasset'
+[2018.06.11-22.37.57:153][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Giraffe_Diff.uasset
+[2018.06.11-22.37.57:391][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/GiraffeEye_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/GiraffeEye_Diff.uasset" SILENT=true
+[2018.06.11-22.37.57:438][182]LogSavePackage: Save=45.47ms
+[2018.06.11-22.37.57:438][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/GiraffeEye_DiffDA29DAAF4776B33831D57798ED015FE9.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/GiraffeEye_Diff.uasset'
+[2018.06.11-22.37.57:442][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/GiraffeEye_Diff.uasset
+[2018.06.11-22.37.57:679][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/juggle01_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/juggle01_Diff.uasset" SILENT=true
+[2018.06.11-22.37.59:691][182]LogSavePackage: Save=2009.69ms
+[2018.06.11-22.37.59:691][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/juggle01_DiffB909C066449F26C4DAD8958464265BED.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/juggle01_Diff.uasset'
+[2018.06.11-22.37.59:694][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/juggle01_Diff.uasset
+[2018.06.11-22.38.00:816][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/lampCover02_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/lampCover02_Diff.uasset" SILENT=true
+[2018.06.11-22.38.00:945][182]LogSavePackage: Save=126.37ms
+[2018.06.11-22.38.00:945][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/lampCover02_DiffF5E805E04636181224C43B9CC6D8778E.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/lampCover02_Diff.uasset'
+[2018.06.11-22.38.00:948][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/lampCover02_Diff.uasset
+[2018.06.11-22.38.01:237][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/magicCube_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/magicCube_Diff.uasset" SILENT=true
+[2018.06.11-22.38.01:268][182]LogSavePackage: Save=28.92ms
+[2018.06.11-22.38.01:268][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/magicCube_Diff77152C3F475DEB320808299E39A89E24.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/magicCube_Diff.uasset'
+[2018.06.11-22.38.01:271][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/magicCube_Diff.uasset
+[2018.06.11-22.38.01:494][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/pictureWall_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/pictureWall_Diff.uasset" SILENT=true
+[2018.06.11-22.38.01:568][182]LogSavePackage: Save=71.56ms
+[2018.06.11-22.38.01:568][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/pictureWall_Diff4926B3B541504FF8C823EF90A3B5C07D.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/pictureWall_Diff.uasset'
+[2018.06.11-22.38.01:571][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/pictureWall_Diff.uasset
+[2018.06.11-22.38.01:843][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/pillow_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/pillow_Diff.uasset" SILENT=true
+[2018.06.11-22.38.02:043][182]LogSavePackage: Save=197.40ms
+[2018.06.11-22.38.02:043][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/pillow_Diff376603D1496A5B94DAD6E392832F1FFA.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/pillow_Diff.uasset'
+[2018.06.11-22.38.02:046][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/pillow_Diff.uasset
+[2018.06.11-22.38.02:392][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Ragdoll_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Ragdoll_Diff.uasset" SILENT=true
+[2018.06.11-22.38.02:659][182]LogSavePackage: Save=264.79ms
+[2018.06.11-22.38.02:659][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/Ragdoll_DiffF574C49B4598D10F89D1AD8B501DCE19.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Ragdoll_Diff.uasset'
+[2018.06.11-22.38.02:662][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Ragdoll_Diff.uasset
+[2018.06.11-22.38.03:118][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Rocket_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Rocket_Diff.uasset" SILENT=true
+[2018.06.11-22.38.03:338][182]LogSavePackage: Save=218.23ms
+[2018.06.11-22.38.03:338][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/Rocket_Diff4F2B9B8F4F351B194A675E90CBB74DC4.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Rocket_Diff.uasset'
+[2018.06.11-22.38.03:342][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Rocket_Diff.uasset
+[2018.06.11-22.38.03:621][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/sheet_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/sheet_Diff.uasset" SILENT=true
+[2018.06.11-22.38.03:950][182]LogSavePackage: Save=327.94ms
+[2018.06.11-22.38.03:950][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/sheet_DiffF425CA0E461DB9750E047AB67AADBE6A.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/sheet_Diff.uasset'
+[2018.06.11-22.38.03:953][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/sheet_Diff.uasset
+[2018.06.11-22.38.04:374][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Skate_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Skate_Diff.uasset" SILENT=true
+[2018.06.11-22.38.04:730][182]LogSavePackage: Save=354.56ms
+[2018.06.11-22.38.04:730][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/Skate_Diff003FB9CC49B341913C7B9AB34722667C.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Skate_Diff.uasset'
+[2018.06.11-22.38.04:733][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Skate_Diff.uasset
+[2018.06.11-22.38.05:131][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Tank_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Tank_Diff.uasset" SILENT=true
+[2018.06.11-22.38.05:192][182]LogSavePackage: Save=59.88ms
+[2018.06.11-22.38.05:192][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/Tank_Diff5FE1B0DF4A9566544CF8B6B728AF4220.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Tank_Diff.uasset'
+[2018.06.11-22.38.05:195][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/Tank_Diff.uasset
+[2018.06.11-22.38.05:440][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TeaTable_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/TeaTable_Diff.uasset" SILENT=true
+[2018.06.11-22.38.05:562][182]LogSavePackage: Save=120.04ms
+[2018.06.11-22.38.05:562][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/TeaTable_DiffC321AE32433F5D13164F8C9B1CB7A831.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/TeaTable_Diff.uasset'
+[2018.06.11-22.38.05:565][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/TeaTable_Diff.uasset
+[2018.06.11-22.38.05:865][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/wallWood_Diff" FILE="C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/wallWood_Diff.uasset" SILENT=true
+[2018.06.11-22.38.06:166][182]LogSavePackage: Save=298.88ms
+[2018.06.11-22.38.06:166][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/wallWood_Diff27AA97D64C78532C0693D093D38C05C8.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/wallWood_Diff.uasset'
+[2018.06.11-22.38.06:169][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/Geometry/Meshes/wallWood_Diff.uasset
+[2018.06.11-22.38.06:580][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Room/12_-_Default" FILE="C:/Users/leet3/Documents/Toyscape/Content/ThirdPerson/Room/12_-_Default.uasset" SILENT=true
+[2018.06.11-22.38.06:611][182]LogSavePackage: Save=11.60ms
+[2018.06.11-22.38.06:611][182]LogSavePackage: Moving 'C:/Users/leet3/Documents/Toyscape/Saved/12_-_DefaultF806071B455F210ACF1A6BAA24D037FD.tmp' to 'C:/Users/leet3/Documents/Toyscape/Content/ThirdPerson/Room/12_-_Default.uasset'
+[2018.06.11-22.38.06:614][182]LogSavePackage: Display: Finished SavePackage C:/Users/leet3/Documents/Toyscape/Content/ThirdPerson/Room/12_-_Default.uasset
+[2018.06.11-22.38.06:794][182]LogSlate: Window 'Toyscape - 언리얼 에디터' being destroyed
+[2018.06.11-22.38.07:433][183]Cmd: QUIT_EDITOR
+[2018.06.11-22.38.08:355][183]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.11-22.38.08:401][183]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.11-22.38.08:416][183]LogExit: Preparing to exit.
+[2018.06.11-22.38.09:622][183]LogExit: Editor shut down
+[2018.06.11-22.38.09:649][183]LogExit: Transaction tracking system shut down
+[2018.06.11-22.38.09:695][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285045dc2c0, Size=408
+[2018.06.11-22.38.09:702][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002840013b040, Size=208
+[2018.06.11-22.38.09:702][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028467dae400, Size=880
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000284002f1708, Size=24
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002840024a470, Size=112
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028467d5b588, Size=40
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002844849c250, Size=112
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028467cd16e0, Size=32
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028467cd1820, Size=32
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002844848e4e0, Size=56
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028467cd1be0, Size=32
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028467c98580, Size=344
+[2018.06.11-22.38.09:868][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028402854680, Size=528
+[2018.06.11-22.38.09:978][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028440ce3100, Size=248
+[2018.06.11-22.38.09:978][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028440ca7100, Size=360
+[2018.06.11-22.38.09:978][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028440c9e120, Size=32
+[2018.06.11-22.38.09:978][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028440b76b00, Size=4952
+[2018.06.11-22.38.09:978][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028440a97040, Size=24
+[2018.06.11-22.38.10:201][183]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.11-22.38.10:201][183]LogDirectoryWatcher: A directory notification for 'C:/Users/leet3/Documents/Toyscape/Content/' was aborted.
+[2018.06.11-22.38.10:201][183]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.11-22.38.10:202][183]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.11-22.38.10:202][183]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.11-22.38.10:202][183]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.11-22.38.10:202][183]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.11-22.38.10:202][183]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.11-22.38.12:781][183]LogExit: Object subsystem successfully closed.
+[2018.06.11-22.38.13:023][183]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.11-22.38.13:065][183]LogD3D11RHI: Shutdown
+[2018.06.11-22.38.13:066][183]LogD3D11RHI: CleanupD3DDevice
+[2018.06.11-22.38.13:204][183]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.11-22.38.15:965][183]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.06.11-22.38.15:966][183]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (578)
+[2018.06.11-22.38.15:966][183]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (576)
+[2018.06.11-22.38.15:966][183]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.11-22.38.15:966][183]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.11-22.38.15:966][183]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.11-22.38.15:986][183]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.11-22.38.15:992][183]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.11-22.38.15:992][183]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.11-22.38.15:992][183]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.11-22.38.16:004][183]LogDirectoryWatcher: A directory notification for 'C:/Users/leet3/Documents/Toyscape/Content/Collections/' was aborted.
+[2018.06.11-22.38.16:005][183]LogDirectoryWatcher: A directory notification for 'C:/Users/leet3/Documents/Toyscape/Content/Developers/leet3/Collections/' was aborted.
+[2018.06.11-22.38.16:005][183]LogDirectoryWatcher: A directory notification for 'C:/Users/leet3/Documents/Toyscape/Saved/Collections/' was aborted.
+[2018.06.11-22.38.16:005][183]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.11-22.38.16:013][183]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.11-22.38.16:024][183]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.11-22.38.16:086][183]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.11-22.38.16:097][183]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.11-22.38.16:097][183]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.11-22.38.16:097][183]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.11-22.38.16:097][183]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.11-22.38.16:097][183]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.11-22.38.16:106][183]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.11-22.38.16:106][183]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.11-22.38.16:121][183]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.11-22.38.16:121][183]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.11-22.38.16:137][183]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.11-22.38.16:137][183]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.11-22.38.16:154][183]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.11-22.38.16:188][183]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.11-22.38.16:235][183]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.11-22.38.16:248][183]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.11-22.38.16:248][183]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.11-22.38.16:248][183]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.11-22.38.16:248][183]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.11-22.38.16:269][183]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.11-22.38.16:269][183]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.11-22.38.16:269][183]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.11-22.38.16:296][183]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.11-22.38.16:296][183]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.11-22.38.16:296][183]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.11-22.38.16:296][183]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.11-22.38.16:296][183]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.11-22.38.16:296][183]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.11-22.38.16:340][183]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.11-22.38.16:340][183]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.11-22.38.16:340][183]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.11-22.38.16:340][183]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.11-22.38.16:489][183]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.11-22.38.16:536][183]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.11-22.38.16:650][183]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.11-22.38.16:793][183]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.11-22.38.16:807][183]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.11-22.38.16:827][183]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.11-22.38.16:827][183]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.11-22.38.16:827][183]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.11-22.38.17:817][183]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.11-22.38.17:817][183]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.11-22.38.17:817][183]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.11-22.38.17:817][183]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.11-22.38.17:833][183]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.11-22.38.17:844][183]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.11-22.38.17:863][183]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.11-22.38.17:875][183]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.11-22.38.17:875][183]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.11-22.38.17:881][183]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.11-22.38.17:892][183]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.11-22.38.17:899][183]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.11-22.38.17:912][183]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.11-22.38.17:912][183]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.11-22.38.17:922][183]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.11-22.38.17:922][183]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.11-22.38.17:946][183]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.11-22.38.17:954][183]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.11-22.38.17:966][183]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.11-22.38.17:975][183]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.11-22.38.17:984][183]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.11-22.38.18:114][183]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.11-22.38.18:136][183]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.11-22.38.18:156][183]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.11-22.38.18:175][183]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.11-22.38.18:175][183]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.11-22.38.18:195][183]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.11-22.38.18:195][183]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.11-22.38.18:222][183]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.11-22.38.18:222][183]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.11-22.38.18:222][183]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.11-22.38.18:240][183]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.11-22.38.18:240][183]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.11-22.38.18:263][183]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.11-22.38.18:263][183]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.11-22.38.18:268][183]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.11-22.38.18:341][183]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.11-22.38.18:350][183]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.11-22.38.18:361][183]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.11-22.38.18:368][183]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.11-22.38.18:368][183]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.11-22.38.18:379][183]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.11-22.38.18:388][183]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.11-22.38.18:456][183]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.11-22.38.18:468][183]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.11-22.38.18:504][183]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.11-22.38.18:513][183]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.11-22.38.18:513][183]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.11-22.38.18:513][183]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.11-22.38.18:528][183]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.11-22.38.18:528][183]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.11-22.38.18:538][183]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.11-22.38.18:550][183]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.11-22.38.18:550][183]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.11-22.38.18:550][183]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.11-22.38.18:550][183]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.11-22.38.18:550][183]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.11-22.38.18:572][183]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.11-22.38.18:593][183]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.11-22.38.18:603][183]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.11-22.38.18:603][183]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.11-22.38.18:619][183]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.11-22.38.18:619][183]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.11-22.38.18:619][183]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.11-22.38.18:640][183]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.11-22.38.18:659][183]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.11-22.38.18:666][183]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.11-22.38.18:666][183]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.11-22.38.18:672][183]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.11-22.38.18:672][183]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.11-22.38.18:672][183]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.11-22.38.18:672][183]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.11-22.38.18:697][183]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.11-22.38.18:697][183]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.11-22.38.18:697][183]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.11-22.38.18:706][183]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.11-22.38.18:706][183]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.11-22.38.18:706][183]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.11-22.38.18:706][183]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.11-22.38.18:706][183]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.11-22.38.18:706][183]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.11-22.38.18:706][183]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.11-22.38.18:806][183]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.11-22.38.18:907][183]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.11-22.38.18:914][183]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.11-22.38.18:931][183]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.11-22.38.18:931][183]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.11-22.38.18:931][183]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.11-22.38.18:944][183]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.11-22.38.18:973][183]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.11-22.38.19:005][183]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.11-22.38.19:010][183]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.11-22.38.19:024][183]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.11-22.38.19:073][183]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.11-22.38.19:086][183]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.11-22.38.19:094][183]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.11-22.38.19:094][183]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.11-22.38.19:107][183]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.11-22.38.19:495][183]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.11-22.38.19:496][183]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.11-22.38.19:508][183]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.11-22.38.19:520][183]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.11-22.38.19:526][183]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.11-22.38.19:526][183]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.11-22.38.19:526][183]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.11-22.38.19:548][183]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.11-22.38.19:548][183]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.11-22.38.19:548][183]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.11-22.38.19:548][183]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.11-22.38.19:563][183]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.11-22.38.19:563][183]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.11-22.38.19:563][183]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.11-22.38.19:598][183]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.11-22.38.19:598][183]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.11-22.38.19:619][183]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.11-22.38.19:671][183]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.11-22.38.19:685][183]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.11-22.38.19:728][183]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.11-22.38.19:750][183]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.11-22.38.19:750][183]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.11-22.38.19:783][183]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.11-22.38.19:783][183]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.11-22.38.19:797][183]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.11-22.38.19:797][183]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.11-22.38.19:806][183]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.11-22.38.19:806][183]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.11-22.38.19:806][183]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.11-22.38.19:806][183]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.11-22.38.19:806][183]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.11-22.38.19:812][183]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.11-22.38.19:812][183]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.11-22.38.19:825][183]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.11-22.38.19:837][183]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.11-22.38.19:837][183]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.11-22.38.19:853][183]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.11-22.38.19:863][183]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.11-22.38.19:878][183]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.11-22.38.19:897][183]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.11-22.38.19:906][183]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.11-22.38.19:939][183]LogDerivedDataCache: Shutdown
+[2018.06.11-22.38.19:939][183]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.11-22.38.19:939][183]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.11-22.38.19:940][183]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.11-22.38.19:947][183]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.11-22.38.19:956][183]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.11-22.38.19:968][183]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.11-22.38.19:979][183]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.11-22.38.20:003][183]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.11-22.38.20:003][183]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.11-22.38.20:003][183]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.11-22.38.20:003][183]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.11-22.38.20:047][183]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.11-22.38.20:062][183]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.11-22.38.20:068][183]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.11-22.38.20:080][183]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.11-22.38.20:083][183]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.11-22.38.20:092][183]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.11-22.38.20:092][183]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.11-22.38.20:100][183]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.11-22.38.20:105][183]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.11-22.38.20:113][183]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.11-22.38.20:113][183]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.11-22.38.20:113][183]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.11-22.38.20:113][183]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.11-22.38.20:113][183]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.11-22.38.20:113][183]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.11-22.38.20:122][183]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.11-22.38.20:122][183]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.11-22.38.20:122][183]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.11-22.38.20:122][183]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.11-22.38.20:122][183]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.11-22.38.20:166][183]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.11-22.38.20:183][183]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.11-22.38.20:206][183]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.11-22.38.20:206][183]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B862D8161-48BD-742B-D3F3-F095D305F3A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=c78bd02c4a1544a28e7f27b5f4b1f4c0%7Cd8d6cbc6af1e45a99b3eb9da5228eb36%7C437f7ae0-01a5-449e-9c75-7fcbc1b666e3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.11-22.38.20:220][183]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.11-22.38.20:244][183]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.11-22.38.20:261][183]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.11-22.38.20:348][183]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.11-22.38.20:365][183]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.11-22.38.20:365][183]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.11-22.38.20:365][183]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.11-22.38.20:365][183]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.11-22.38.20:405][183]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.11-22.38.20:420][183]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.11-22.38.20:420][183]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.11-22.38.20:428][183]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.11-22.38.20:428][183]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.11-22.38.20:428][183]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.11-22.38.20:428][183]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.11-22.38.20:437][183]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.11-22.38.20:437][183]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.11-22.38.20:445][183]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.11-22.38.20:452][183]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.11-22.38.20:478][183]LogExit: Exiting.
+[2018.06.11-22.38.20:506][183]Log file closed, 06/12/18 07:38:20
